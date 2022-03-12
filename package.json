@@ -8,11 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "framer-motion": "^4.1.17",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
+    "@types/node": "^17.0.21",
     "@types/react": "^17.0.11",
     "autoprefixer": "^10.0.4",
     "postcss": "^8.1.10",
