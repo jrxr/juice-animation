@@ -15,7 +15,8 @@ const TextContainer = () => {
       </div>
  
       <div className="textContainer-middle">
-        <motion.span variants={fadeIn()} initial="initial" animate="animate">
+        <motion.span
+         variants={fadeIn()} initial="initial" animate="animate">
           Laranja
         </motion.span>
       </div>
